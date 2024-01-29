@@ -1,0 +1,745 @@
+﻿A Project Guide to UX  
+- Your Highlight on page 12-12 | Added on Wednesday, February 5, 2020 12:27:48 PM
+
+For more information on the distinctions between a customer’s experience of a company’s brand and a company’s eﬀorts to build their brand, read dirk Knemeyer’s explanation in “Brand Experience and the Web”: www.digital-web.com/articles/brand_experience_and_the_web. For an excellent discussion of how a site’s UX design can inﬂuence an individual’s brand experience
+==========
+﻿A Project Guide to UX  
+- Your Highlight on page 18-18 | Added on Wednesday, February 5, 2020 12:32:17 PM
+
+Surfng For more information on the diﬀerent ways users tend to seek information, read “Four modes of seeking Information and How to design for Them,” by donna spencer: http://boxesandarrows.com/view/four_modes_of_seeking_ information_and_how_to_design_for_them
+==========
+﻿A Project Guide to UX  
+- Your Highlight on page 16-16 | Added on Wednesday, February 5, 2020 12:32:34 PM
+
+Content Source
+==========
+﻿A Project Guide to UX  
+- Your Highlight on page 20-20 | Added on Wednesday, February 5, 2020 12:42:42 PM
+
+Provide content in manageable chunks that are paced for comprehension.
+==========
+﻿A Project Guide to UX  
+- Your Note on page 20 | Added on Wednesday, February 5, 2020 12:44:01 PM
+
+Avoid evasion of students 
+==========
+﻿A Project Guide to UX  
+- Your Highlight on page 20-20 | Added on Wednesday, February 5, 2020 12:44:01 PM
+
+Communicate performance and progress and, if applicable, suggest next steps for continuing the educational process
+==========
+﻿A Project Guide to UX  
+- Your Highlight on page 24-24 | Added on Wednesday, February 5, 2020 1:01:57 PM
+
+Deep Diving If you’d like to try your own hand at building a responsive website, follow Ethan marcotte’s excellent walkthrough, available in Responsive Web Design (A Book Apart, 2011)
+==========
+﻿O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 174-175 | Added on Tuesday, February 11, 2020 10:59:21 PM
+
+A TECNOLOGIA MUDA RAPIDAMENTE; AS PESSOAS MUDAM DEVAGAR
+==========
+﻿O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 185-185 | Added on Tuesday, February 11, 2020 11:02:11 PM
+
+affordance,
+==========
+﻿O design do dia a dia (Donald A. Norman)
+- Your Bookmark on Location 232 | Added on Tuesday, February 11, 2020 11:10:23 PM
+
+
+==========
+﻿O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 641-642 | Added on Saturday, February 15, 2020 2:53:35 AM
+
+o relacionamento entre as intenções do usuário, as ações exigidas e os resultados são sensatos, não arbitrários e significativos.
+==========
+﻿O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 722-723 | Added on Tuesday, February 18, 2020 12:54:41 AM
+
+paradoxo da tecnologia: maior funcionalidade geralmente vem acompanhada do custo adicional de maior complexidade
+==========
+﻿O design do dia a dia (Donald A. Norman)
+- Your Bookmark on Location 722 | Added on Tuesday, February 18, 2020 12:56:41 AM
+
+
+==========
+﻿O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 754-755 | Added on Tuesday, February 18, 2020 1:01:40 AM
+
+Geralmente precisa-se de umas cinco ou seis tentativas para acertar um produto.
+==========
+﻿O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 1066-1067 | Added on Wednesday, February 19, 2020 11:39:06 PM
+
+De modo que existem quatro coisas diferentes a considerar: a meta, o que é feito ao mundo, o próprio mundo e a verificação do mundo.
+==========
+﻿O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 1177-1177 | Added on Thursday, February 27, 2020 11:59:13 PM
+
+
+==========
+﻿O design do dia a dia (Donald A. Norman)
+- Your Bookmark on Location 1177 | Added on Friday, February 28, 2020 12:04:43 AM
+
+
+==========
+﻿O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 1172-1177 | Added on Friday, February 28, 2020 12:07:10 AM
+
+Visibilidade. Ao olhar, o usuário pode definir o estado do artefato e as alternativas de ação. • Um bom modelo conceitual. Um designer fornece um bom modelo conceitual para o usuário, com consistência na apresentação de operações e resultados, e um sistema coerente e consistente de imagens. • Bons mapeamentos. É possível determinar os relacionamentos entre as ações e os resultados, entre os controles e seus efeitos, entre o estado do sistema e o que é visível. • Feedback. O usuário recebe pleno e contínuo retorno de informações sobre o resultado das ações.
+==========
+﻿O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 1244-1245 | Added on Friday, February 28, 2020 12:18:16 AM
+
+– que os psicólogos chamam de conhecimento
+==========
+﻿O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 1245-1245 | Added on Friday, February 28, 2020 12:18:30 AM
+
+conhecimento declarativo – inclui o conhecimento de fatos e regras. “Pare no sinal vermelho.”
+==========
+﻿O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 1248-1248 | Added on Friday, February 28, 2020 12:18:52 AM
+
+conhecimento procedural – é o conhecimento que permite que uma pessoa toque música,
+==========
+﻿O design do dia a dia (Donald A. Norman)
+- Your Bookmark on Location 1343 | Added on Friday, February 28, 2020 11:48:05 PM
+
+
+==========
+O design do dia a dia (Donald A. Norman)
+- Your Bookmark on Location 1546 | Added on Tuesday, March 3, 2020 1:02:12 AM
+
+
+==========
+O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 1697-1699 | Added on Friday, March 6, 2020 2:15:27 AM
+
+Como pode o design indicar e sinalizar as ações apropriadas? Para responder à pergunta usamos como base os princípios abordados no Capítulo 3. Um importante conjunto de indicações vem das restrições naturais dos objetos, as restrições físicas que limitam o que pode ser feito.
+==========
+O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 138-139 | Added on Saturday, March 7, 2020 5:31:24 PM
+
+mensagem extremamente importante que este livro quer transmitir, é a seguinte: aprenda a olhar com atenção, aprenda a observar. Observe a si mesmo. Observe os outros. Como declarou o famoso jogador de beisebol Yogi Berra: “Você pode observar muita coisa com um olhar
+==========
+Dom Casmurro (Machado de Assis)
+- Your Bookmark on Location 3631 | Added on Thursday, April 16, 2020 9:45:26 PM
+
+
+==========
+O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 2077-2079 | Added on Thursday, June 18, 2020 1:34:58 AM
+
+Nossa capacidade de generalizar a partir de pequenas quantidades de informações ajuda tremendamente em novas situações, mas por vezes generalizamos depressa demais, classificando uma nova situação como sendo similar a uma antiga, quando, na verdade, existem discrepâncias significativas.
+==========
+O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 2548-2553 | Added on Friday, June 19, 2020 3:10:37 AM
+
+1. Compreender as causas de erro e conceber e projetar o design para minimizá-las. 2. Tornar possível reverter ações – “desfazê-las” – ou tornar mais difícil fazer o que não pode ser revertido. 3. Tornar mais fácil descobrir os erros que de fato ocorrem, torná-los mais fáceis de corrigir. 4. Mudar de atitude com relação a erros. Pensar no usuário de um objeto como alguém tentando executar uma tarefa e chegando lá por meio de aproximações imperfeitas. Não pensar no usuário como alguém que comete erros, pensar nas ações como aproximações do que se deseja.
+==========
+O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 2840-2840 | Added on Monday, June 22, 2020 1:56:49 AM
+
+se o produto for bem-sucedido. É preciso
+==========
+O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 2839-2840 | Added on Monday, June 22, 2020 1:57:00 AM
+
+Tudo isso introduz uma importante lição de design. Uma vez que se conseguiu obter um produto satisfatório, mudanças posteriores podem ser contraprodutivas, especialmente se o produto for bem-sucedido. É preciso saber onde parar.
+==========
+O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 2864-2864 | Added on Monday, June 22, 2020 2:00:21 AM
+
+seus clientes, e os clientes podem não ser os usuários.
+==========
+O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 2905-2906 | Added on Monday, June 22, 2020 2:07:47 AM
+
+os princípios apropriados para combinar estética, economia, usabilidade e manufaturabilidade.
+==========
+O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 2956-2957 | Added on Monday, June 22, 2020 2:15:01 AM
+
+Os usuários são especialistas na tarefa que estão tentando executar com o dispositivo.[14]
+==========
+O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 3133-3133 | Added on Tuesday, June 23, 2020 12:45:31 AM
+
+Atenção seletiva: cuide do problema imediato, esqueça o resto.
+==========
+O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 3491-3492 | Added on Tuesday, June 23, 2020 2:29:55 PM
+
+Tornar fácil determinar as ações possíveis a qualquer momento (fazer uso de coerções).
+==========
+O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 3492-3493 | Added on Tuesday, June 23, 2020 2:30:06 PM
+
+Tornar as coisas visíveis, inclusive o modelo conceitual do sistema, as ações opcionais e os resultados das ações.
+==========
+O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 3493-3494 | Added on Tuesday, June 23, 2020 2:30:17 PM
+
+Tornar fácil avaliar o estado atual do sistema.
+==========
+O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 3494-3494 | Added on Tuesday, June 23, 2020 2:39:25 PM
+
+Seguir os mapeamentos naturais entre
+==========
+O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 3494-3495 | Added on Tuesday, June 23, 2020 2:39:35 PM
+
+as intenções e as ações exigidas; entre as ações e o efeito resultante; e entre as informações visíveis e a interpretação do estado do sistema.
+==========
+How to Listen to Jazz (Ted Gioia)
+- Your Highlight on Location 89-89 | Added on Saturday, December 5, 2020 12:41:24 AM
+
+“If you have to ask, don’t mess with it.”
+==========
+How to Listen to Jazz (Ted Gioia)
+- Your Highlight on Location 119-120 | Added on Saturday, December 5, 2020 12:52:28 AM
+
+his descriptions possessed a certain wry
+==========
+How to Listen to Jazz (Ted Gioia)
+- Your Highlight on Location 139-140 | Added on Saturday, December 5, 2020 12:59:48 AM
+
+The music itself makes certain demands on the listeners, and the critic who articulates these demands has left subjectivity behind, at least to some degree.
+==========
+How to Listen to Jazz (Ted Gioia)
+- Your Highlight on Location 190-191 | Added on Saturday, December 5, 2020 1:12:27 AM
+
+sometimes even relying on it as a pathway to the divine.
+==========
+How to Listen to Jazz (Ted Gioia)
+- Your Highlight on Location 247-248 | Added on Saturday, December 5, 2020 1:33:37 AM
+
+the difference from their varying levels of comfort and confidence in their rhythmic interaction.
+==========
+How to Listen to Jazz (Ted Gioia)
+- Your Note on Location 248 | Added on Saturday, December 5, 2020 1:34:19 AM
+
+Collective interaction "rules"
+==========
+How to Listen to Jazz (Ted Gioia)
+- Your Highlight on Location 305-306 | Added on Sunday, December 6, 2020 12:43:49 AM
+
+Listen to Count Basie’s recording of “Li’l Darlin’” if you want to hear how this is done at a very high level of virtuosity.
+==========
+How to Listen to Jazz (Ted Gioia)
+- Your Highlight on Location 357-357 | Added on Sunday, December 6, 2020 1:01:32 AM
+
+My way of balancing these tensions is by focusing on the music itself,
+==========
+How to Listen to Jazz (Ted Gioia)
+- Your Highlight on Location 362-362 | Added on Sunday, December 6, 2020 1:03:17 AM
+
+ought
+==========
+How to Listen to Jazz (Ted Gioia)
+- Your Highlight on Location 380-381 | Added on Monday, December 7, 2020 12:21:53 AM
+
+Even before these artists start improvising, merely when they are interpreting a written melody, they demonstrate their mastery and express their individuality.
+==========
+How to Listen to Jazz (Ted Gioia)
+- Your Highlight on Location 425-427 | Added on Tuesday, December 8, 2020 12:21:55 AM
+
+The goal is to internalize the various rhythmic strategies to such a degree that they come out naturally and instinctively during performance.
+==========
+How to Listen to Jazz (Ted Gioia)
+- Your Highlight on Location 438-438 | Added on Tuesday, December 8, 2020 12:24:24 AM
+
+intentionality
+==========
+How to Listen to Jazz (Ted Gioia)
+- Your Highlight on Location 451-452 | Added on Tuesday, December 8, 2020 12:34:15 AM
+
+evaluate the authority and confidence with which they begin and end their phrases.
+==========
+How to Listen to Jazz (Ted Gioia)
+- Your Highlight on Location 457-458 | Added on Tuesday, December 8, 2020 12:36:32 AM
+
+(When stealing from other players, an older musician wisely advised me, choose a different instrument from your own, and people won’t notice the theft.)
+==========
+How to Listen to Jazz (Ted Gioia)
+- Your Highlight on Location 590-590 | Added on Tuesday, December 8, 2020 11:48:29 PM
+
+“Dynamics” refers to variations in volume of a note or phrase;
+==========
+How to Listen to Jazz (Ted Gioia)
+- Your Highlight on Location 650-651 | Added on Wednesday, December 9, 2020 12:01:07 AM
+
+Rorschach test.
+==========
+How to Listen to Jazz (Ted Gioia)
+- Your Highlight on Location 728-729 | Added on Wednesday, December 9, 2020 12:14:29 AM
+
+Jazz, in contrast, is for those who want to be in attendance when the miracle happens.
+==========
+How to Listen to Jazz (Ted Gioia)
+- Your Highlight on Location 797-798 | Added on Wednesday, December 9, 2020 11:04:33 PM
+
+Duke Ellington’s structure for “Sepia Panorama” from 1940, which briefly served as his band’s theme song (later replaced by “Take the ‘A’ Train”).
+==========
+How to Listen to Jazz (Ted Gioia)
+- Your Highlight on Location 879-880 | Added on Thursday, December 10, 2020 11:31:58 PM
+
+breaks (short two-bar solo statements with the band playing on the first beat of the first bar) and stop-time (a complete solo with the band supporting only on certain beats, in this instance on beats 2 and 4 of each bar).
+==========
+How to Listen to Jazz (Ted Gioia)
+- Your Highlight on Location 996-997 | Added on Monday, December 14, 2020 11:33:45 PM
+
+Check out, for example, the recording “Tenor
+==========
+How to Listen to Jazz (Ted Gioia)
+- Your Highlight on Location 997-997 | Added on Monday, December 14, 2020 11:34:06 PM
+
+“Tenor Madness,” a well-known sax battle between Sonny Rollins and John Coltrane
+==========
+How to Listen to Jazz (Ted Gioia)
+- Your Highlight on Location 1060-1062 | Added on Sunday, January 24, 2021 12:55:54 AM
+
+Statisticians have developed a host of analytical tools to predict the spread of innovations, whether artistic movements or technologies or consumer products. You might be surprised to learn that these mathematical models were originally developed to predict the spread of diseases
+==========
+How to Listen to Jazz (Ted Gioia)
+- Your Highlight on Location 1065-1066 | Added on Sunday, January 24, 2021 1:06:39 AM
+
+these are nightmare conditions for anyone trying to stop an epidemic, but they are the same ingredients that can spur world-changing artistic revolutions.
+==========
+How to Listen to Jazz (Ted Gioia)
+- Your Highlight on Location 1073-1075 | Added on Sunday, January 24, 2021 1:09:46 AM
+
+We talk nowadays of cultural memes going viral, but this isn’t just a poetic way of speaking. Jazz followed the same formula.
+==========
+How to Listen to Jazz (Ted Gioia)
+- Your Highlight on Location 1134-1134 | Added on Sunday, January 24, 2021 1:24:09 AM
+
+Here again, the goal was to subvert the Western scales, to break free from the isolated, self-sufficient notes
+==========
+How to Listen to Jazz (Ted Gioia)
+- Your Highlight on Location 1134-1135 | Added on Sunday, January 24, 2021 1:24:19 AM
+
+of fretted instruments and explore the sounds that existed beyond the borders of these defined tones.
+==========
+How to Listen to Jazz (Ted Gioia)
+- Your Highlight on Location 1267-1267 | Added on Sunday, January 24, 2021 1:26:28 PM
+
+bears
+==========
+How to Listen to Jazz (Ted Gioia)
+- Your Highlight on Location 1266-1267 | Added on Monday, January 25, 2021 3:04:36 AM
+
+jazz since its early days, the art form still bears
+==========
+How to Listen to Jazz (Ted Gioia)
+- Your Highlight on Location 1298-1298 | Added on Monday, January 25, 2021 3:10:36 AM
+
+listening to this music, I find it fascinating to gauge
+==========
+How to Listen to Jazz (Ted Gioia)
+- Your Highlight on Location 1298-1298 | Added on Monday, January 25, 2021 3:11:04 AM
+
+gauge
+==========
+How to Listen to Jazz (Ted Gioia)
+- Your Highlight on Location 1316-1316 | Added on Monday, January 25, 2021 3:14:50 AM
+
+prowess
+==========
+O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 3512-3512 | Added on Friday, February 26, 2021 1:12:30 PM
+
+coerções.
+==========
+O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 3520-3520 | Added on Friday, February 26, 2021 1:13:54 PM
+
+modelo conceitual.
+==========
+O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 3523-3524 | Added on Friday, February 26, 2021 1:14:56 PM
+
+Três diferentes aspectos de modelos mentais devem ser distinguidos: o modelo de design,
+==========
+O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 3524-3524 | Added on Friday, February 26, 2021 1:15:12 PM
+
+o modelo do usuário e a imagem do sistema
+==========
+O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 3536-3538 | Added on Friday, February 26, 2021 1:20:31 PM
+
+Os manuais costumam ser menos úteis do que deveriam. Com frequência são escritos apressadamente, depois que o produto está projetado, sob intensas pressões de tempo, com recursos insuficientes e por pessoas sobrecarregadas de trabalho e que não recebem o devido reconhecimento.
+==========
+O design do dia a dia (Donald A. Norman)
+- Your Note on Location 3538 | Added on Friday, February 26, 2021 1:20:46 PM
+
+Ta explicado
+==========
+O design do dia a dia (Donald A. Norman)
+- Your Note on Location 3542 | Added on Friday, February 26, 2021 1:21:57 PM
+
+Onboarding de produtos
+==========
+O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 3542-3542 | Added on Friday, February 26, 2021 1:21:57 PM
+
+lidar com a natureza humana
+==========
+O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 3591-3592 | Added on Friday, February 26, 2021 1:30:46 PM
+
+assinala meus erros e sugere a correção, mas não
+==========
+O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 3591-3592 | Added on Friday, February 26, 2021 1:30:51 PM
+
+assinala meus erros e sugere a correção, mas não fará alterações a menos que eu aprove.
+==========
+O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 3692-3692 | Added on Friday, February 26, 2021 1:49:48 PM
+
+mapeamentos naturais.
+==========
+O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 3693-3695 | Added on Friday, February 26, 2021 1:49:57 PM
+
+Entre intenções e possíveis ações. • Entre ações e seus efeitos sobre o sistema. • Entre o verdadeiro estado do sistema e
+==========
+O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 3695-3696 | Added on Friday, February 26, 2021 1:50:14 PM
+
+o que é perceptível pela visão, som ou toque. • Entre o estado percebido do sistema e as necessidades, intenções e expectativas do usuário.
+==========
+O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 3713-3714 | Added on Friday, February 26, 2021 1:53:34 PM
+
+É preciso sempre presumir que qualquer erro que possa ser praticado será cometido.
+==========
+O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 3714-3715 | Added on Friday, February 26, 2021 1:53:54 PM
+
+um erro é simplesmente uma ação especificada de maneira incompleta ou inapropriada.
+==========
+O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 3716-3716 | Added on Friday, February 26, 2021 1:54:17 PM
+
+Tentar dar apoio e não lutar contra as ações do usuário.
+==========
+O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 3716-3716 | Added on Friday, February 26, 2021 1:54:33 PM
+
+Permitir ao usuário reconhecer e recuperar os erros
+==========
+O design do dia a dia (Donald A. Norman)
+- Your Highlight on Location 3792-3793 | Added on Monday, March 1, 2021 10:56:56 AM
+
+Os princípios da usabilidade podem ser seguidos no sentido inverso para dificultar as tarefas que, de fato, precisem ser difíceis.
+==========
+d831b1aabbc845e3825d971a9f118f45 (antonio iacono)
+- Your Highlight on Location 59-62 | Added on Monday, June 21, 2021 9:17:37 AM
+
+As decisões estratégicas de lançamento incluem tanto decisões sobre plataforma estratégica, que definem rumos e direções gerais, quanto decisões de ações estratégicas, que definem para quem vamos vender e como.
+==========
+The Elements of User Experience: User-Centered Design for the Web and Beyond (2nd Edition) (Voices That Matter) (Unknown)
+- Your Highlight on Location 356-357 | Added on Wednesday, September 1, 2021 12:57:28 PM
+
+Functional design makes sure it trig-gers the appropriate action on the device. User experience design makes sure the aesthetic and functional aspects of the button work in the context of the rest of the product,
+==========
+The Elements of User Experience: User-Centered Design for the Web and Beyond (2nd Edition) (Voices That Matter) (Unknown)
+- Your Highlight on Location 387-387 | Added on Wednesday, September 1, 2021 1:01:35 PM
+
+Web site is a self-service product.
+==========
+The Elements of User Experience: User-Centered Design for the Web and Beyond (2nd Edition) (Voices That Matter) (Unknown)
+- Your Highlight on Location 388-389 | Added on Wednesday, September 1, 2021 1:01:42 PM
+
+There is only the user, facing the site alone with only her wits and personal experience to guide her.
+==========
+The Elements of User Experience: User-Centered Design for the Web and Beyond (2nd Edition) (Voices That Matter) (Unknown)
+- Your Highlight on Location 431-432 | Added on Wednesday, September 1, 2021 1:08:51 PM
+
+One common measure of return on investment is conversion rate.
+==========
+The Elements of User Experience: User-Centered Design for the Web and Beyond (2nd Edition) (Voices That Matter) (Unknown)
+- Your Highlight on Location 441-442 | Added on Wednesday, September 8, 2021 1:37:03 AM
+
+A quality user experience is a key factor in converting these casual browsers into active buyers.
+==========
+The Elements of User Experience: User-Centered Design for the Web and Beyond (2nd Edition) (Voices That Matter) (Unknown)
+- Your Highlight on Location 454-454 | Added on Wednesday, September 8, 2021 1:40:42 AM
+
+Any user experience effort aims to improve efficiency.
+==========
+The Elements of User Experience: User-Centered Design for the Web and Beyond (2nd Edition) (Voices That Matter) (Unknown)
+- Your Highlight on Location 463-465 | Added on Wednesday, September 8, 2021 1:42:12 AM
+
+Technology products that don’t work the way people expect make them feel stupid— even if they ultimately accomplish what they set out to do.
+==========
+The Elements of User Experience: User-Centered Design for the Web and Beyond (2nd Edition) (Voices That Matter) (Unknown)
+- Your Highlight on Location 473-474 | Added on Wednesday, September 8, 2021 1:43:44 AM
+
+Realistically, you might have to make a compromise
+==========
+The Elements of User Experience: User-Centered Design for the Web and Beyond (2nd Edition) (Voices That Matter) (Unknown)
+- Your Highlight on Location 485-486 | Added on Wednesday, September 8, 2021 1:45:25 AM
+
+The user experience design process is all about ensuring that no aspect of the user’s experience with your product happens without your conscious, explicit intent.
+==========
+The Elements of User Experience: User-Centered Design for the Web and Beyond (2nd Edition) (Voices That Matter) (Unknown)
+- Your Highlight on Location 487-487 | Added on Wednesday, September 8, 2021 1:45:45 AM
+
+expectations
+==========
+The Elements of User Experience: User-Centered Design for the Web and Beyond (2nd Edition) (Voices That Matter) (Unknown)
+- Your Highlight on Location 496-496 | Added on Wednesday, September 8, 2021 1:47:12 AM
+
+peel
+==========
+The Elements of User Experience: User-Centered Design for the Web and Beyond (2nd Edition) (Voices That Matter) (Unknown)
+- Your Highlight on Location 580-580 | Added on Monday, September 13, 2021 4:23:41 PM
+
+as an application design problem,
+==========
+The Elements of User Experience: User-Centered Design for the Web and Beyond (2nd Edition) (Voices That Matter) (Unknown)
+- Your Highlight on Location 582-583 | Added on Monday, September 13, 2021 4:24:08 PM
+
+Web in terms of information distribution and retrieval, and applied problem-solving approaches
+==========
+The Elements of User Experience: User-Centered Design for the Web and Beyond (2nd Edition) (Voices That Matter) (Unknown)
+- Your Highlight on Location 656-656 | Added on Monday, September 13, 2021 4:35:08 PM
+
+information design, navigation design, and interface design jointly define the skeleton of a product.
+==========
+The Elements of User Experience: User-Centered Design for the Web and Beyond (2nd Edition) (Voices That Matter) (Unknown)
+- Your Highlight on Location 842-843 | Added on Saturday, October 9, 2021 10:35:44 PM
+
+For the experts, however, such a sequence would be a hindrance. The experts need a unified interface that provides rapid access to a wide range of functions.
+==========
+How to Listen to Jazz (Ted Gioia)
+- Your Highlight on Location 1490-1490 | Added on Tuesday, December 28, 2021 9:36:30 PM
+
+All these quirks, at first derided by his peers,
+==========
+How to Listen to Jazz (Ted Gioia)
+- Your Highlight on Location 1560-1561 | Added on Tuesday, December 28, 2021 9:49:51 PM
+
+SWING ERA: RECOMMENDED LISTENING
+==========
+How to Listen to Jazz (Ted Gioia)
+- Your Highlight on Location 1583-1583 | Added on Tuesday, December 28, 2021 9:53:05 PM
+
+concepts. The bebop aesthetic is more akin
+==========
+Mastery (Greene, Robert)
+- Your Highlight on Location 1579-1579 | Added on Friday, April 29, 2022 11:00:25 AM
+
+This learning process leads to what we shall call tacit knowledge—a
+==========
+Mastery (Greene, Robert)
+- Your Highlight on Location 1637-1638 | Added on Friday, April 29, 2022 11:10:04 AM
+
+You can look for challenges, new areas to conquer, keeping your interest at a high level.
+==========
+Mastery (Greene, Robert)
+- Your Highlight on Location 1644-1645 | Added on Friday, April 29, 2022 11:11:37 AM
+
+Real pleasure comes from overcoming challenges, feeling confidence in your abilities, gaining fluency in skills, and experiencing the power this brings.
+==========
+Mastery (Greene, Robert)
+- Your Highlight on Location 1644-1646 | Added on Friday, April 29, 2022 11:11:50 AM
+
+Real pleasure comes from overcoming challenges, feeling confidence in your abilities, gaining fluency in skills, and experiencing the power this brings. You develop patience.
+==========
+Mastery (Greene, Robert)
+- Your Highlight on Location 1987-1987 | Added on Friday, April 29, 2022 1:08:15 PM
+
+Buried in their minds is the sensation of overcoming their frustrations and entering the cycle of accelerated returns.
+==========
+Mastery (Greene, Robert)
+- Your Highlight on Location 1994-1995 | Added on Friday, April 29, 2022 1:09:45 PM
+
+The panic disappears after repeated exposure. The frustration is a sign of progress—a signal that your mind is processing complexity and requires more practice.
+==========
+Mastery (Greene, Robert)
+- Your Highlight on Location 2065-2066 | Added on Friday, April 29, 2022 3:32:27 PM
+
+You train yourself to concentrate in practice with double the intensity, as if it were the real thing times two.
+==========
+Mastery (Greene, Robert)
+- Your Highlight on Location 2068-2070 | Added on Friday, April 29, 2022 3:33:18 PM
+
+In the end, your five hours of intense, focused work are the equivalent of ten for most people. Soon enough you will see the results of such practice, and others will marvel at the apparent ease in which you accomplish your deeds.
+==========
+Mastery (Greene, Robert)
+- Your Highlight on Location 2079-2079 | Added on Friday, April 29, 2022 3:36:08 PM
+
+salvaged
+==========
+Mastery (Greene, Robert)
+- Your Highlight on Location 2086-2086 | Added on Friday, April 29, 2022 3:37:33 PM
+
+daunting
+==========
+Mastery (Greene, Robert)
+- Your Highlight on Location 2088-2088 | Added on Friday, April 29, 2022 3:38:43 PM
+
+dubbed
+==========
+Mastery (Greene, Robert)
+- Your Highlight on Location 2089-2089 | Added on Friday, April 29, 2022 3:39:33 PM
+
+liking.
+==========
+Mastery (Greene, Robert)
+- Your Highlight on Location 2309-2310 | Added on Wednesday, June 29, 2022 11:40:28 PM
+
+observing the world around him with utmost
+==========
+Mastery (Greene, Robert)
+- Your Highlight on Location 3090-3091 | Added on Friday, August 5, 2022 8:28:05 AM
+
+characters that they normally try to conceal.
+==========
+Mastery (Greene, Robert)
+- Your Highlight on Location 3160-3160 | Added on Wednesday, August 10, 2022 1:04:06 AM
+
+attending
+==========
+Mastery (Greene, Robert)
+- Your Highlight on Location 3849-3849 | Added on Saturday, January 21, 2023 3:09:13 PM
+
+Salzburg to Vienna, where he was planning to showcase the musical talents
+==========
+48 Laws of Power (Greene, Robert)
+- Your Highlight on Location 182-182 | Added on Thursday, February 9, 2023 8:39:20 AM
+
+Only gods and the dead can seem perfect with impunity.
+==========
+48 Laws of Power (Greene, Robert)
+- Your Highlight on Location 217-217 | Added on Thursday, February 9, 2023 8:56:48 AM
+
+Place your iron hand inside a velvet glove.
+==========
+Scrum Mastery: From Good to Great Servant Leadership (Geoff Watts)
+- Your Highlight on Location 112-112 | Added on Tuesday, February 14, 2023 6:57:05 PM
+
+Have priorities changed? Have any estimates changed? —
+==========
+Mastery (Greene, Robert)
+- Your Highlight on Location 3992-3993 | Added on Thursday, March 9, 2023 7:46:03 PM
+
+The truth is that creative activity is one that involves the entire self—our emotions, our levels of energy, our characters, and our minds.
+==========
+Mastery (Greene, Robert)
+- Your Highlight on Location 4059-4059 | Added on Tuesday, March 14, 2023 7:29:30 PM
+
+Furthermore, once we hold these ideas, to admit they are wrong is to wound our ego and vanity.
+==========
+Mastery (Greene, Robert)
+- Your Highlight on Location 4061-4062 | Added on Tuesday, March 14, 2023 7:30:24 PM
+
+This ability to endure and even embrace mysteries and uncertainties is what Keats called negative capability.
+==========
+Mastery (Greene, Robert)
+- Your Highlight on Location 4109-4109 | Added on Tuesday, March 14, 2023 7:46:56 PM
+
+serendipity—the
+==========
+Mastery (Greene, Robert)
+- Your Highlight on Location 4227-4227 | Added on Tuesday, March 14, 2023 8:07:32 PM
+
+translating his ideas into tangible objects,
+==========
+Mastery (Greene, Robert)
+- Your Highlight on Location 4255-4256 | Added on Tuesday, March 14, 2023 8:12:08 PM
+
+matter:
+==========
+Mastery (Greene, Robert)
+- Your Highlight on Location 4484-4484 | Added on Friday, May 26, 2023 12:02:31 PM
+
+scrutinized.
+==========
+Mastery (Greene, Robert)
+- Your Highlight on Location 4517-4517 | Added on Friday, May 26, 2023 12:21:07 PM
+
+What you want in the end is to internalize the voice of your Master
+==========
+Mastery (Greene, Robert)
+- Your Highlight on Location 4521-4521 | Added on Friday, May 26, 2023 12:21:51 PM
+
+impatience speaking and coloring your judgment.
+==========
+Mastery (Greene, Robert)
+- Your Highlight on Location 4530-4530 | Added on Friday, May 26, 2023 12:23:58 PM
+
+Praise
+==========
+Mastery (Greene, Robert)
+- Your Highlight on Location 4552-4552 | Added on Thursday, June 1, 2023 7:38:57 AM
+
+Masters of the small reality we create.
+==========
+Mastery (Greene, Robert)
+- Your Highlight on Location 4585-4586 | Added on Thursday, June 1, 2023 7:43:14 AM
+
+harmonic possibility. He practiced scales like a fiend
+==========
+Product Operations: How successful companies build better products at scale (Perri, Melissa)
+- Your Highlight on page 8 | Location 125-125 | Added on Sunday, October 29, 2023 7:13:16 PM
+
+They couldn’t reconcile the roadmaps at scale.
+==========
+Product Operations: How successful companies build better products at scale (Perri, Melissa)
+- Your Highlight on page 11 | Location 161-163 | Added on Sunday, October 29, 2023 7:21:45 PM
+
+It’s about surrounding the team with all of the essential inputs to set strategy, prioritize, and streamline ways of working.
+==========
+Product Operations: How successful companies build better products at scale (Perri, Melissa)
+- Your Highlight on page 14 | Location 194-194 | Added on Sunday, October 29, 2023 7:26:01 PM
+
+for a few months, and things were going swimmingly
+==========
+Product Operations: How successful companies build better products at scale (Perri, Melissa)
+- Your Highlight on page 21 | Location 271-274 | Added on Sunday, November 5, 2023 1:16:15 PM
+
+Product operations arose from the need to bring modern software teams and cross-functional stakeholders together to deliver valuable products, from the need to surface the right information in order to make strategic decisions, to helping all departments understand where they can have an impact on the product life cycle.
+==========
+Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value (Torres, Teresa)
+- Your Highlight on page 13 | Location 125-126 | Added on Saturday, November 18, 2023 3:38:13 PM
+
+How do you guarantee that your team is creating value for your customers in a way that creates value for your business?
+==========
+Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value (Torres, Teresa)
+- Your Highlight on page 20 | Location 216-219 | Added on Saturday, November 18, 2023 3:52:24 PM
+
+That means rather than defining your success by the code that you ship (your output), you define success as the value that code creates for your customers and for your business (the outcomes). Rather than measuring value in features and bells and whistles, we measure success in impact—the impact we have had on our customers’ lives and the impact we have had on the sustainability and growth of our business.
+==========
+Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value (Torres, Teresa)
+- Your Highlight on page 20 | Location 230-230 | Added on Saturday, November 18, 2023 4:04:53 PM
+
+think like scientists identifying assumptions and gathering evidence.
+==========
+Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value (Torres, Teresa)
+- Your Highlight on page 21 | Location 240-242 | Added on Saturday, November 18, 2023 4:06:15 PM
+
+At a minimum, weekly touchpoints with customers By the team building the product Where they conduct small research activities In pursuit of a desired outcome
+==========
+Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value (Torres, Teresa)
+- Your Highlight on page 21 | Location 242-243 | Added on Saturday, November 18, 2023 4:06:33 PM
+
+infuse those daily decisions with as much customer input as possible.
+==========
+Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value (Torres, Teresa)
+- Your Highlight on page 26 | Location 300-301 | Added on Sunday, November 19, 2023 11:32:21 AM
+
+the purpose of these customer touchpoints is to conduct research in pursuit of a desired outcome.
+==========
+Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value (Torres, Teresa)
+- Your Highlight on page 27 | Location 313-314 | Added on Sunday, November 19, 2023 11:34:56 AM
+
+In this book, I’ll refer to customer needs, pain points, and desires collectively as “opportunities”—they represent opportunities to intervene in our customers’ lives in a positive way.
+==========
